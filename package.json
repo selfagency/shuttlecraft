@@ -56,7 +56,7 @@
   },
   "lint-staged": {
     "design/**/*.handlebars": [
-      "djlint --lint --reformat"
+      "djlint --lint"
     ]
   }
 }
